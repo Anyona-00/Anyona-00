@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ombasa anyona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ombasa anyona" height="30" width="40" /></a>
+<a href="https://twitter.com/anyona_shadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ombasa anyona" height="30" width="40" /></a>
 <a href="https://discord.gg/Anyona#9438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anyona#9438" height="30" width="40" /></a>
 </p>
 
@@ -27,7 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anyona-00&show_icons=true&locale=en" alt="anyona-00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anyona-00&" alt="anyona-00" /></p>
-### Hi there 👋
+
 
 <!--
 **Anyona-00/Anyona-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
