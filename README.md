@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Anyona, a budding software engineer with a fervent love for programming. <br>I'm constantly learning new languages to fuel my passion for development. <br>Explore my GitHub profile to witness my coding journey!<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about HTML<br><br>📫 How to reach me ombasaanyona@gmail.com
+Hello, I'm Anyona, a budding software engineer with a fervent love for programming. <br>I'm constantly learning new languages to fuel my passion for development. <br>Explore my GitHub profile to witness my coding journey!<br><br>🌱 I’m currently learning Node<br><br>💬 Ask me about React<br><br>📫 How to reach me ombasaanyona@gmail.com
 
 
 ## 🌐 Socials:
